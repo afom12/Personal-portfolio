@@ -22,7 +22,7 @@ Welcome to personal portfolio website! This site is a reflection of my journey a
 
 ## 📁 Project Structure
 
-🔗 Live Demo: [https://afom12.github.io/my-portfolio/]([https://github.com/afom12/Personal-portfolio/](https://afom12.github.io/Personal-portfolio/))
+🔗 Live Demo: [https://github.com/afom12/Personal-portfolio/](https://afom12.github.io/Personal-portfolio/))
 
 __________________________________________________________________________________________________________________________________
 ## 🛠 How to Use
