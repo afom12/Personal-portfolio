@@ -1,6 +1,8 @@
 # Personal-portfolio
 
 Welcome to personal portfolio website! This site is a reflection of my journey as a passionate front-end developer and software engineering student. Explore my projects, skills, and the work I love doing.
+
+
  
 
 ## 💻 Built With
@@ -11,14 +13,13 @@ Welcome to personal portfolio website! This site is a reflection of my journey a
 - Responsive Design
 - Folder Structure using `/assets` for CSS, JS, and images
 
-
 ## ✨ Features
 
 - Fully responsive layout – works on all screen sizes
 - Clean and minimalistic design
 - About Me section
 - Projects showcase
-- Contact form (optional/coming soon)
+- Contact form
 
 ## 📁 Project Structure
 
