@@ -10,7 +10,6 @@ Welcome to personal portfolio website! This site is a reflection of my journey a
 - Responsive Design
 - Folder Structure using `/assets` for CSS, JS, and images
 
-
 ## ✨ Features
 
 - Fully responsive layout – works on all screen sizes
