@@ -5,7 +5,7 @@ Welcome to personal portfolio website! This site is a reflection of my journey a
 ## 💻 Built With
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 - Responsive Design
 - Folder Structure using `/assets` for CSS, JS, and images
