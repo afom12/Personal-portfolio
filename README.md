@@ -2,7 +2,6 @@
 
 
 
-
 # Personal-portfolio
 
 Welcome to personal portfolio website! This site is a reflection of my journey as a passionate front-end developer and software engineering student. Explore my projects, skills, and the work I love doing.
