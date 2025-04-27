@@ -16,8 +16,7 @@ Welcome to personal portfolio website! This site is a reflection of my journey a
 - Clean and minimalistic design
 - About Me section
 - Projects showcase
-- Contact form
- 
+- Contact form 
 
 ## 📁 Project Structure
 
